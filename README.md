@@ -24,11 +24,9 @@ A well-motivated third-year student in Computer Science Education, eager to expe
 
 ---
 ## Find Me on:
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/anthonioakbar#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/anthonioakbar#gh-dark-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/anthonioakbar)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/antho.nio19#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/antho.nio19#gh-dark-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/antho.nio19)
 
 
 
