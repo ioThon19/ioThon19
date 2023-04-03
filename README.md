@@ -3,9 +3,10 @@
 ## About me:
 A well-motivated third-year student in Computer Science Education, eager to experience and involve real work exposure. Possess good problem solving and design thinking skills in dealing with both individual and team project. Highly interested in developing and expanding capacity in programming and end to end design (Web Developer, Android Developer and UI/UX Design).
 
-## Education:
+## Now:
 
-#### [Universitas Pendidikan Indonesia](https://www.upi.edu/) | [Computer Science Education](https://cs.upi.edu/) | Bandung `2020-Now` 
+#### [Universitas Pendidikan Indonesia](https://www.upi.edu/) | Computer Science Education Student |
+#### [Dicoding Indonesia](https://www.dicoding.com/) | Student |  
 
 ## Skills and Tools:
 ###
