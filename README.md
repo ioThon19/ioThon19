@@ -5,7 +5,7 @@ A well-motivated third-year student in Computer Science Education, eager to expe
 
 ## Education:
 
-#### [Universitas Pendidikan Indonesia](https://www.upi.edu/) | Computer Science Education | Bandung `2020-Now` 
+#### [Universitas Pendidikan Indonesia](https://www.upi.edu/) | [Computer Science Education](https://cs.upi.edu/) | Bandung `2020-Now` 
 
 ## Skills and Tools:
 ###
