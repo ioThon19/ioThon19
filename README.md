@@ -1,7 +1,7 @@
 # Hi Peeps! 
-## My Name is Anthonio Akbar as ioThon19 :D
+## My Name is Anthonio Akbar
 ## About me:
-A well-motivated third-year student in Computer Science Education, eager to experience and involve real work exposure. Possess good problem solving and design thinking skills in dealing with both individual and team project. Highly interested in developing and expanding capacity in programming and end to end design (Web Developer, Android Developer and UI/UX Design).
+A well-motivated  student in Computer Science Education, eager to experience and involve real work exposure. Possess good problem solving and design thinking skills in dealing with both individual and team project. Highly interested in developing and expanding capacity in programming and end to end design (Web Developer, Android Developer and UI/UX Design).
 
 ## Now:
 
