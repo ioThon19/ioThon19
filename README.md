@@ -6,7 +6,7 @@ A well-motivated  student in Computer Science Education, eager to experience and
 ## Now:
 
 #### [Universitas Pendidikan Indonesia](https://www.upi.edu/) | Computer Science Education Student |
-#### [Dicoding Indonesia](https://www.dicoding.com/) | Student |  
+#### [Dicoding Indonesia](https://www.dicoding.com/) | Cycle 6 Mentor |  
 
 ## Skills and Tools:
 ###
